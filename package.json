@@ -1,0 +1,24 @@
+{
+  "name": "ramen-ramen-ramen",
+  "version": "1.0.0",
+  "description": "An engine for rendering 2d video games with the HTML canvas element.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joelyjoel/ramen-ramen-ramen.git"
+  },
+  "keywords": [
+    "ramen",
+    "ramen",
+    "ramen"
+  ],
+  "author": "Joelyjoel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joelyjoel/ramen-ramen-ramen/issues"
+  },
+  "homepage": "https://github.com/joelyjoel/ramen-ramen-ramen#readme"
+}
