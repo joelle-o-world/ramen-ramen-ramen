@@ -1,10 +1,12 @@
+import { Camera } from "./Camera";
+
 export class World {
   constructor() {
     this.canvas = undefined;
     this.ctx = undefined;
 
     this.frameRate = 32;
-    this.camera = new RamenWorldCamera();
+    this.camera = new Camera();
 
     this.dontClear = false;
 
