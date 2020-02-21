@@ -1,6 +1,6 @@
 {
   "name": "ramen-ramen-ramen",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An engine for rendering 2d video games with the HTML canvas element.",
   "main": "src/index.js",
   "scripts": {
