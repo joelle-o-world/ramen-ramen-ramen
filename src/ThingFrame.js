@@ -3,6 +3,8 @@ export class ThingFrame {
     if(img == undefined)
       throw 'ThingFrame: image must not be undefined.';
 
+    this.img = img;
+
     this.pivotX = 0;
     this.pivotY = 0;
 
